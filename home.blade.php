@@ -21,7 +21,7 @@
         <div class="row">
             <div class="col-2">
                 <div class="d-flex p-2">
-                    <img src="../" class="img-thumbnail"><br>
+                    <img src="../logoWeb.jpg" class="img-thumbnail"><br>
                     <h6>E-FINDER</h6>
                 </div>
             </div>
@@ -102,7 +102,7 @@
                             </ul>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="..\sachThieuNhi_banner.jpg" alt="Sách Thiếu nhi" width="1100" height="500">
+                                    <img src="../sachThieuNhi_banner.jpg" alt="Sách Thiếu nhi" width="1100" height="500">
                                 </div>
                                 <div class="carousel-item">
                                     <img src="chicago.jpg" alt="Chicago" width="1100" height="500">
